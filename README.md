@@ -21,9 +21,9 @@ Built an artificial neural network (ANN) to predict customer churn using the *Ch
 ---
 
 ### 🗂️ Dataset
-- **Source:** Kaggle — Churn for Bank Customers  
+- **Source:** Kaggle - Churn for Bank Customers  
 - **Records:** ~10,000 rows  
-- **Format:** CSV — cleaned and encoded to numeric features for model input
+- **Format:** CSV - cleaned and encoded to numeric features for model input
 
 ---
 
